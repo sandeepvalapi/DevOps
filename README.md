@@ -3,6 +3,7 @@ DevOps is a culture, movement or practice that emphasizes the collaboration and 
 
 DevOps is a way of thinking and acting that buiilds on Agile and Lean Thinking to bring additional speed to deliver technology with greater stability, quality and security
 
+DevOps is not a product, nor a method
 
 ## CALMS
 
